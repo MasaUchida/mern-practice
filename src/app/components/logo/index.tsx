@@ -37,7 +37,7 @@ const Logo = () => {
   return (
     <LogoContainer>
       <Image>
-        <img src={CarLogoImg} />
+        <img src={CarLogoImg} alt="" />
       </Image>
       <LogoText>yourcar.</LogoText>
     </LogoContainer>
